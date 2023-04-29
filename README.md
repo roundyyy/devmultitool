@@ -3,7 +3,8 @@
 <img src="https://beeimg.com/images/h53473132103.png" alt="Unity Toolbox Logo" width="400"/>
 
 
-DevMultiTool for Unity is a set of tools that can help you to make boring tasks faster by performing batch operations on game objects. With this tool, you can focus on development and spend less time on doing repetitive stuff. About 30 different editor tools that I find useful in my work (some more, some less)
+DevMultiTool for Unity is a set of tools that can help you to make boring tasks faster by performing batch operations on game objects. With this tool, you can focus on development and spend less time on doing repetitive stuff. About 30 different editor tools that I find useful in my work (some more, some less).
+Tools was developed to help me work with WarDust VR game and also help modders, so some parts of the code are specific for this game. But it can be also used as general editor helper.
 
 ## Features
 
@@ -37,6 +38,10 @@ To use DevMultiTool, simply import the package into your Unity project. Once imp
 If you'd like to contribute to DevMultiTool, feel free to fork this repository and submit a pull request. We welcome contributions of all kinds, including bug reports, feature requests, and code changes.
 
 ### Detailed and explained list of features
+
+TO BE ADDED !
+
+### Tutorials
 
 TO BE ADDED !
 
