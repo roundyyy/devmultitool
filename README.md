@@ -1,7 +1,6 @@
-# DevMultiTool
-# Unity Toolbox
+# DevMultiTool for Unity
 
-Unity Toolbox is a set of tools that can help you to make boring tasks faster by performing batch operations on game objects. With this tool, you can focus on development and spend less time on doing repetitive stuff.
+DevMultiTool for Unity is a set of tools that can help you to make boring tasks faster by performing batch operations on game objects. With this tool, you can focus on development and spend less time on doing repetitive stuff.
 
 ## Features
 
