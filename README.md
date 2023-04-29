@@ -8,6 +8,8 @@ Tools was developed to help me work with WarDust VR game and also help modders, 
 
 ## Features
 
+Tested on Unity 2019.4.40 and 2020.3.47, but it should work on others as well (I think)
+
 ### Batch Operations
 
 DevMultiTool provides several batch operations that can be performed on game objects. These include:
