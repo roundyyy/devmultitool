@@ -45,3 +45,8 @@ TO BE ADDED !
 
 TO BE ADDED !
 
+### About
+
+This is my first that big editor tool, so code is bit messy, same as GUI ;)
+
+
