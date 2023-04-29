@@ -6,7 +6,7 @@ DevMultiTool for Unity is a set of tools that can help you to make boring tasks 
 
 ### Batch Operations
 
-Unity Toolbox provides several batch operations that can be performed on game objects. These include:
+DevMultiTool provides several batch operations that can be performed on game objects. These include:
 
 - Renaming game objects
 - Adjusting position, rotation, and scale of game objects
@@ -16,7 +16,7 @@ Unity Toolbox provides several batch operations that can be performed on game ob
 
 ### Optimization Tools
 
-Unity Toolbox also includes some tools for optimizing your Unity projects. These include:
+DevMultiTool also includes some tools for optimizing your Unity projects. These include:
 
 - Removing unused assets from your project
 - Finding and fixing common performance issues
@@ -24,7 +24,7 @@ Unity Toolbox also includes some tools for optimizing your Unity projects. These
 
 ### Scene Management
 
-Unity Toolbox provides features to make working with large scenes easier. These include:
+DevMultiTool provides features to make working with large scenes easier. These include:
 
 - Finding and selecting game objects by name or type
 - Filtering game objects by component or tag
@@ -37,3 +37,8 @@ To use Unity Toolbox, simply import the package into your Unity project. Once im
 ## Contributing
 
 If you'd like to contribute to Unity Toolbox, feel free to fork this repository and submit a pull request. We welcome contributions of all kinds, including bug reports, feature requests, and code changes.
+
+### Detailed and explained list of features
+
+TO BE ADDED !
+
