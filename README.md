@@ -55,6 +55,10 @@ TO BE ADDED !
 
 TO BE ADDED !
 
+[YOUTUBE : Material snapshot bake](https://youtu.be/Q-TPyfi5Tn4)
+
+[YOUTUBE : Exporting trees and creating colliders on bark](https://youtu.be/pzjH0LEvdxE)
+
 ### About
 
 This is my first that big editor tool, so code is bit messy, same as GUI ;)
