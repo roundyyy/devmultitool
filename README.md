@@ -13,9 +13,14 @@ Tools was developed to help me work with WarDust VR game and also help modders, 
 DevMultiTool provides several batch operations that can be performed on game objects. These include:
 
 - Moving, cloning, replacing, enabling, disabling, setting, adjusting etc.
-- Adjusting position, rotation, and scale of game objects
-- Sorting game objects by name, material etc.
+- Sorting game objects by material
 - Setting layer and tag for multiple game objects
+- Adding colliders in bulk
+- Cleaning empty game objects or inactive components
+- Search objects by layer or size
+- Converting terrain trees to scene game objects
+- Sorting prefabs by type and placing in to single parent
+- and more...
 
 ### Optimization Tools
 
