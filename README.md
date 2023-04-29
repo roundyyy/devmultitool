@@ -58,5 +58,6 @@ TO BE ADDED !
 ### About
 
 This is my first that big editor tool, so code is bit messy, same as GUI ;)
+I take no responsibilty for breaking your project, scenes, car or leg. Some features have UNDO support, but I suggest to save your scenes and keep always project backups up to date.
 
 
