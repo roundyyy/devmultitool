@@ -3,7 +3,7 @@
 <img src="https://beeimg.com/images/h53473132103.png" alt="Unity Toolbox Logo" width="400"/>
 
 
-DevMultiTool for Unity is a set of tools that can help you to make boring tasks faster by performing batch operations on game objects. With this tool, you can focus on development and spend less time on doing repetitive stuff.
+DevMultiTool for Unity is a set of tools that can help you to make boring tasks faster by performing batch operations on game objects. With this tool, you can focus on development and spend less time on doing repetitive stuff. About 30 different editor tools that I find useful in my work (some more, some less)
 
 ## Features
 
