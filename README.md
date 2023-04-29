@@ -15,7 +15,7 @@ DevMultiTool provides several batch operations that can be performed on game obj
 - Moving, cloning, replacing, enabling, disabling, setting, adjusting etc.
 - Sorting game objects by material with submeshes separation support
 - Setting layer and tag for multiple game objects
-- Adding colliders in bulk
+- Adding/removing/cloning colliders in bulk with layer set.
 - Cleaning empty game objects or inactive components
 - Search objects by layer or size
 - Converting terrain trees to scene game objects
