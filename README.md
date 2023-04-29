@@ -27,7 +27,7 @@ DevMultiTool provides several batch operations that can be performed on game obj
 DevMultiTool also includes some tools for optimizing your Unity projects. These include:
 
 - Material Baker. It will bake cheap version of your materials in to 1 texture (custom shaders supported), so it can be used for lower LOD levels.
-- LOD tweaker allows you to set LOD groups in batch to switch LOD levels in actual distance (in units), rather than screen relative size (apporx)
+- LOD tweaker allows you to set LOD groups in batch to switch LOD levels in actual distance (in units), rather than screen relative size (approx)
 
 ### Scene Management
 
