@@ -39,7 +39,7 @@ DevMultiTool provides features to make working with large scenes easier.
 
 ## Getting Started
 
-Download here : [DevMultiTool](https://github.com/roundyyy/devmultitool/releases/download/0_1/devmultitool_0_1.unitypackage)
+Download here : [DevMultiTool](https://github.com/roundyyy/devmultitool/releases)
 
 To use DevMultiTool, simply import the package into your Unity project. Once imported, you can access the tools by opening Tools/DevMultiTool.
 
